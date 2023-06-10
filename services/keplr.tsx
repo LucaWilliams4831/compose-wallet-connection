@@ -110,7 +110,7 @@ export const connectKeplr = async () => {
             average: 0.025,
             high: 0.04,
           },
-          features: ["eth-address-gen"]
+          // features: ["eth-address-gen"]
         })
       } catch {
         alert('Failed to suggest the chain')
