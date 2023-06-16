@@ -33,7 +33,7 @@ function WalletLoader({
         </h1>
         <h1 className="mt-4 text-6xl font-bold">
           <Emoji label="dog" symbol="🐶" />
-          <span>{' Compose Wallet Connection '}</span>
+          <span>{' Mcoin Wallet Connection '}</span>
           <Emoji label="dog" symbol="🐶" />
         </h1>
 
